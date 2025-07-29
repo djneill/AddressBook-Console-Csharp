@@ -1,0 +1,14 @@
+/Users/DJ/Desktop/nameAddress/bin/Debug/net9.0/nameAddress
+/Users/DJ/Desktop/nameAddress/bin/Debug/net9.0/nameAddress.deps.json
+/Users/DJ/Desktop/nameAddress/bin/Debug/net9.0/nameAddress.runtimeconfig.json
+/Users/DJ/Desktop/nameAddress/bin/Debug/net9.0/nameAddress.dll
+/Users/DJ/Desktop/nameAddress/bin/Debug/net9.0/nameAddress.pdb
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.GeneratedMSBuildEditorConfig.editorconfig
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.AssemblyInfoInputs.cache
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.AssemblyInfo.cs
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.csproj.CoreCompileInputs.cache
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.dll
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/refint/nameAddress.dll
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.pdb
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/nameAddress.genruntimeconfig.cache
+/Users/DJ/Desktop/nameAddress/obj/Debug/net9.0/ref/nameAddress.dll
