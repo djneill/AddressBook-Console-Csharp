@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace nameAddress
+namespace nameAddress.Models
 {
     public class PersonModel
     {

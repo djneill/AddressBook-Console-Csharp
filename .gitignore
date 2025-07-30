@@ -24,3 +24,5 @@
 *.UpgradeLog*.XML
 UpgradeLog*.XML
 
+
+.fake
