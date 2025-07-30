@@ -1,0 +1,26 @@
+# Ignore Visual Studio temporary files, build results, and
+# build directories
+[Bb]in/
+[Oo]bj/
+
+# Rider Project files
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.sln.metaproj
+
+# Backup & report files from converting an old project file
+# to a newer version.
+*.Backup
+*.UpgradeLog*.XML
+UpgradeLog*.XML
+

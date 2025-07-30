@@ -56,11 +56,11 @@ namespace nameAddress
             {
                 Console.Write("Enter your zip: ");
                 string zipResult = Console.ReadLine();
-                validNumber = int.TryParse(zipResult, out zip);
+                validNumber = int.TryParse(zipResult, out zip) && zipResult.Length == 5;
 
                 if (!validNumber)
                 {
-                    Console.WriteLine("invalid number format, please use keys 1 - 9");
+                    Console.WriteLine("invalid number format, please use keys 1 - 9, zipcode should be 5 digits long.");
                 }
             } while (!validNumber);
 

@@ -7,9 +7,17 @@ namespace nameAddress
 {
     public class PersonModel
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        public string FirstName { private get; set; }
+        public string LastName { private get; set; }
         // public string EmailAddress { get; set; }
         public AddressModel HomeAddress { get; set; }
+
+        public string FullName
+        {
+            get
+            {
+                return $"{FirstName} {LastName}";
+            }
+        }
     }
 }
